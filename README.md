@@ -11,7 +11,7 @@ Débugguer et Tester un Saas RH
 + Réaliser des test unitaires et d'intégration afin d'obtenir un taux de couverture à 80%
 + Réaliser un plan de test End to End pour le parcours Employé
 
-[Le rapport avec les bugs identifiés (Kanban Notion) ](https://openclassrooms.notion.site/a7a612fc166747e78d95aa38106a55ec?v=2a8d3553379c4366b6f66490ab8f0b90&p=458a386ca3714f4cbe89d99b27ac8362&pm=s)).
+[Le rapport avec les bugs identifiés Kanban Notion](https://openclassrooms.notion.site/a7a612fc166747e78d95aa38106a55ec?v=2a8d3553379c4366b6f66490ab8f0b90&p=458a386ca3714f4cbe89d99b27ac8362&pm=s)).
 
 
 ## Résultats 
